@@ -6,7 +6,7 @@ This repository contains examples that illustrates how to create, edit, format, 
 
 You can create, edit, and format simple and nested tables in a Word document. Polish the appearance of tables by applying table styles and conditional formats.
 
-The Syncfusion [Word library](https://www.syncfusion.com/word-framework/net/word-library?utm_source=github&utm_medium=listing&utm_campaign=word-table-examples) (Essential DocIO) provides comprehensive APIs to create, edit, format, and delete both simple and nested tables in Word documents programmatically in C# and VB.NET. It allows you to customize look of the tables by merging cells, adding or deleting columns or rows, or applying borders, enabling or disabling header rows to repeat on each page or row to break across pages. It generates professional reports with table format data faster in a batch process without Microsoft Word or Office interop dependencies. The generated reports can be saved as a Word document, PDF, image, HTML, and more.
+The Syncfusion [Word library](https://www.syncfusion.com/word-framework/net/word-library?utm_source=github&utm_medium=listing&utm_campaign=word-table-examples) (Essential DocIO) provides comprehensive APIs to create, edit, format, and delete both simple and nested tables in Word documents programmatically in C# and VB.NET. It allows you to customize look of the tables by merging cells, adding or deleting columns or rows, or applying borders, enabling or disabling header rows to repeat on each page or row to break across pages. It generates professional reports with tabular data faster in a batch process without Microsoft Word or Office interop dependencies. The generated reports can be saved as a Word document, PDF, image, HTML, and more.
 
 # NuGet packages
 
